@@ -1,0 +1,5 @@
+runig006-removepane:
+  forum:
+    settings:
+      heading: "Remover Panel"
+      label: "Eliminar el panel lateral"
